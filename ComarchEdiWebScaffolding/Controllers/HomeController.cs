@@ -24,7 +24,7 @@ namespace ComarchEdiWebScaffolding.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page. Test Commit";
+            ViewData["Message"] = "Your contact page. Test Commit s";
 
             return View();
         }
